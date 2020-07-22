@@ -1,6 +1,8 @@
 var FormData =  require('form-data');
 const fetch =  require('node-fetch');
 const io = require('socket.io')();
+// const url = 'http://votes.loc/biz/bis/';
+const url ='http://evoting.versified.xyz/biz/bis/';
 
 var data = null;
 function makerequest(){
@@ -9,7 +11,7 @@ function makerequest(){
   fm.append("s", "fd");fm.append("a", "countvotes");fm.append("dd", pps);
   fm.append("uid", '44');fm.append("df", "sp_votes_find");fm.append('m','l');
 
-  fetch('http://evoting.versified.xyzbiz/bis/',{method: 'post', body: fm})
+  fetch(url,{method: 'post', body: fm})
   .then(res => res.json())
   .then(rd => { 
     data = rd
