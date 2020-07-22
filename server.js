@@ -2,7 +2,7 @@ var FormData =  require('form-data');
 const fetch =  require('node-fetch');
 const io = require('socket.io')();
 // const url = 'http://votes.loc/biz/bis/';
-const url ='http://evoting.versified.xyz/biz/bis/';
+const url ='https://evoting.versified.xyz/biz/bis/';
 
 var data = null;
 function makerequest(){
