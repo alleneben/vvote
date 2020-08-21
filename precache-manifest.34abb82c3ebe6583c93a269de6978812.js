@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/bis_ocr_nya.3377707b.jpg"
   },
   {
-    "revision": "115e219debcee85051b6",
-    "url": "/static/css/main.2531915d.chunk.css"
+    "revision": "cb437605806cd749821c",
+    "url": "/static/css/main.994bacba.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/media/vote.3a56c4fa.jpg"
   },
   {
-    "revision": "27e5bacfb7b274117240",
-    "url": "/static/js/2.27e5bacf.chunk.js"
+    "revision": "83349ac313cbd6e1d697",
+    "url": "/static/js/2.83349ac3.chunk.js"
   },
   {
     "revision": "eb6be414b75c412c13eeee2d2e8390cb",
@@ -32,12 +32,12 @@ self.__precacheManifest = [
     "url": "/static/media/nucleo.f0b489a5.woff"
   },
   {
-    "revision": "03ef1918e505c3e3471f9369ef7a638f",
-    "url": "/static/media/nucleo.03ef1918.eot"
-  },
-  {
     "revision": "b17a118e13e53558658b681a0ebdad82",
     "url": "/static/media/nucleo.b17a118e.ttf"
+  },
+  {
+    "revision": "03ef1918e505c3e3471f9369ef7a638f",
+    "url": "/static/media/nucleo.03ef1918.eot"
   },
   {
     "revision": "bd6820f1a4015e9645e470ea8e7b1501",
@@ -76,8 +76,8 @@ self.__precacheManifest = [
     "url": "/static/media/ary_ben_ofo_o.a4dcd4e1.jpg"
   },
   {
-    "revision": "115e219debcee85051b6",
-    "url": "/static/js/main.115e219d.chunk.js"
+    "revision": "cb437605806cd749821c",
+    "url": "/static/js/main.cb437605.chunk.js"
   },
   {
     "revision": "e4fe1a0b6ecae169c5ce871116591e94",
@@ -148,11 +148,11 @@ self.__precacheManifest = [
     "url": "/static/media/undraw_voting_nvu7.d03996ea.svg"
   },
   {
-    "revision": "27e5bacfb7b274117240",
+    "revision": "83349ac313cbd6e1d697",
     "url": "/static/css/2.24a6ebcd.chunk.css"
   },
   {
-    "revision": "4fb329d9ffab7bc8af7b47988822e06f",
+    "revision": "d39ddcbcdacddf4ff8ad6ae03e763e15",
     "url": "/index.html"
   }
 ];
